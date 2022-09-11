@@ -1,9 +1,9 @@
-👋 Hi, my name is Arshdeep Badhan<br />
+👋 Hi, my name is Arshdeep Badhan <br />
 👀 I’m interested in coding various engineering projects<br />
 🌱 I’m currently learning Azure Databricks and working at Bruce Power full time<br />
 💞️ I’m looking for summer 2023 Software Engineer Positions<br />
 📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca<br />
-
+👉 Check out my website to learn more.<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
