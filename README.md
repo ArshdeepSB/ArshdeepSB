@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArshdeepSB
+- 👋 Hi, my name is Arshdeep Badhan
 - 👀 I’m interested in coding various engineering projects
 - 🌱 I’m currently learning the Azure Databricks
 - 💞️ I’m looking for summer 2023 Software Engineer Positions
