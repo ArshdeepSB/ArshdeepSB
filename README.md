@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Arshdeep Badhan
-- 👀 I’m interested in coding various engineering projects
-- 🌱 I’m currently learning Azure Databricks and working at Bruce Power full time
-- 💞️ I’m looking for summer 2023 Software Engineer Positions
-- 📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca
+👋 Hi, my name is Arshdeep Badhan
+👀 I’m interested in coding various engineering projects
+🌱 I’m currently learning Azure Databricks and working at Bruce Power full time
+💞️ I’m looking for summer 2023 Software Engineer Positions
+📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca
 
 ### Languages and Tools:
 
