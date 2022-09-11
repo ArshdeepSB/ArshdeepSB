@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArshdeepSB
 - 👀 I’m interested in coding various engineering projects
 - 🌱 I’m currently learning the React Framework
-- 💞️ I’m looking for summer 2022 internships
+- 💞️ I’m looking for summer 2023 Software Engineer Positions
 - 📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca
 
 <!---
