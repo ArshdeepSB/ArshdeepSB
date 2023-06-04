@@ -1,6 +1,6 @@
 👋 Hi, my name is Arshdeep Badhan <br />
 👀 I’m enjoy coding various software projects<br />
-🌱 I’m currently learning Azure Databricks and working full time at Bruce Power<br />
+🌱 I’m currently learning about Azure Cloud and working full time at RCMP<br />
 💞️ I’m looking for summer 2023 Software Engineer Positions<br />
 📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca<br />
 👉 Check out my [website](https://arshdeepsb.github.io/Portfolio-Website/) to learn more.<br />
