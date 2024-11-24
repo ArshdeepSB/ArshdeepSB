@@ -2,7 +2,7 @@
 👀 I’m enjoy coding various software projects<br />
 🌱 I’m currently learning about Azure Cloud and working full time at RCMP<br />
 💞️ I’m looking for Sumer 2025 New Graduate Positions<br />
-📫 You can reach me by my email: Arshdeep.badhan@Ryerson.ca<br />
+📫 You can reach me by my email: Arshdeep.badhan@torontomu.ca<br />
 👉 Check out my [website](https://arshdeepsb.github.io/Portfolio-Website/) to learn more.<br />
 ### Languages and Tools:
 
